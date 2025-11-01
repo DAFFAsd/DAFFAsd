@@ -91,7 +91,7 @@ Currently at **Terang AI**, I focus on modern applications that merge **AI autom
 
 ### 🧑‍🏫 Leadership & Recognition
 
-- 🧪 Head Coordinator — Digital System Basics Lab, DTE FTUI  
+- 🧪 Head Coordinator — Digital System Basics & Algorithm Programming Lab, DTE FTUI  
 - 🏆 1st Place — *Technoskill 2.0: Armbot Creations* (Arduino Robotics)  
 - 🥉 3rd Place — *Technoskill 1.0: Fullstack Web Development*  
 - 💼 Youth Leadership Coordinator — *IROSI* (secured IDR 10 million sponsorship)  
