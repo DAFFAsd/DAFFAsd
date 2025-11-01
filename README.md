@@ -9,7 +9,7 @@
   <a href="mailto:daffa.sayra.firdaus@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/DAFFAsd">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -65,12 +65,12 @@ Currently at **Terang AI**, I focus on modern applications that merge **AI autom
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DAFFAsd&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAFFAsd&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DAFFAsd&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -103,7 +103,7 @@ Currently at **Terang AI**, I focus on modern applications that merge **AI autom
 <p align="left">
   <a href="https://www.linkedin.com/in/daffa-sayra-firdaus-77464220a/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:daffa.sayra.firdaus@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://github.com/DAFFAsd"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
