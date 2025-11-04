@@ -77,11 +77,10 @@ Currently at **Terang AI**, I focus on modern applications that merge **AI autom
 
 ### 🚀 My Work/Company Projects
 
-- **Kinderlib AI** – Full-stack AI learning platform with PDF auto-translation, built with Next.js + Golang backend + Gemini API.  
-- **IAI (Interactive AI LMS)** – Next.js-based LMS (Coursera-style) featuring AI-generated content, exams, and MDX editor.  
-- **AI Interview System** – Real-time candidate evaluation using LiveKit + Google Chirp (Speech-to-Text).  
-- **Autograder System** – Auto evaluation using Gemini backend for assignment grading.  
-- **Beta SISVA Platform** – Educational platform with monorepo architecture and anti-cheat exam system.
+- **Kinderlib AI** – Full-stack AI learning platform with PDF auto-translation, built with Next.js + Golang backend + Custom Python library for layout extraction (ML/LayoutLM)  
+- **IAI (Ikatan Arsitektur Indonesia LMS)** – Next.js-based LMS (Coursera-style) featuring AI-generated content, exams, and MDX editor.  
+- **AI Interview & Autograder System** – Real-time candidate evaluation using LiveKit + Google Chirp (Speech-to-Text).  
+- **Beta SISVA Platform** – Educational platform with monorepo architecture, AI Integration, and anti-cheat exam system.
 
 ### 🚀 Featured Personal Projects
 - **Lift Controller (FPGA)** – FSM-based control logic implemented in VHDL and deployed on FPGA.  
@@ -94,7 +93,6 @@ Currently at **Terang AI**, I focus on modern applications that merge **AI autom
 - 🧪 Head Coordinator — Digital System Basics & Algorithm Programming Lab, DTE FTUI  
 - 🏆 1st Place — *Technoskill 2.0: Armbot Creations* (Arduino Robotics)  
 - 🥉 3rd Place — *Technoskill 1.0: Fullstack Web Development*  
-- 💼 Youth Leadership Coordinator — *IROSI* (secured IDR 10 million sponsorship)  
 
 ---
 
