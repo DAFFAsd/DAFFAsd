@@ -107,5 +107,5 @@ Currently at **Terang AI**, I focus on modern applications that merge **AI autom
 ---
 
 <p align="center">
-  <b>“Engineering intelligent systems that scale — from embedded logic to AI-driven infrastructure.”</b>
+  <b>“Engineering intelligent systems that scale — from node to kubernetes.”</b>
 </p>
