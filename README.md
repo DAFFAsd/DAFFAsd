@@ -18,7 +18,7 @@
 
 ### 🧭 About Me
 
-With a strong foundation in **full-stack development**, **DevOps**, **AI systems**, and **cloud infrastructure**, I design and build scalable modern web applications deployed on **Kubernetes**, serving over **16,000+ active users**.
+With a strong foundation in **full-stack development**, **DevOps**, **AI systems**, and **cloud infrastructure**, I design and build scalable modern web applications deployed on **Kubernetes**, serving over **6,000+ active users**.
 
 My work bridges intelligent software architecture with reliable deployment pipelines and **AI integration** — turning cutting-edge research into production-ready systems.
 
